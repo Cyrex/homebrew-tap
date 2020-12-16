@@ -1,4 +1,4 @@
-# homebrew-formulae
+# homebrew-tap
 
 This is the repository for Homebrew packages. Homebrew is "the missing package manager for OS X".
 
@@ -6,4 +6,4 @@ This is the repository for Homebrew packages. Homebrew is "the missing package m
 
 Run the following in your command-line:
 
-```$ brew tap cyrex/formulae```
+```$ brew tap cyrex/tap```
