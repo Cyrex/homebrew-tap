@@ -3,8 +3,8 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Cartool < Formula
   desc "Export images from OS X / iOS .car CoreUI archives"
-  homepage "https://github.com/brewtools/cartool"
-  url "https://github.com/brewtools/cartool/archive/v0.1.0.tar.gz"
+  homepage "https://github.com/cyrex/cartool"
+  url "https://github.com/cyrex/cartool/archive/v0.1.0.tar.gz"
   sha256 "04dc150ab982878f5f3242c1e41271db4f0abb018e180eade0b08a88344efbdf"
 
   depends_on :xcode => ["7.0", :build]
