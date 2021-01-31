@@ -6,4 +6,4 @@ This is the repository for Homebrew packages. Homebrew is "the missing package m
 
 Run the following in your command-line:
 
-```$ brew tap cyrex/tap```
+```$ brew tap szwathub/tap```
